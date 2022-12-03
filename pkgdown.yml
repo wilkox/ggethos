@@ -1,0 +1,13 @@
+pandoc: 2.19.2
+pkgdown: 2.0.6
+pkgdown_sha: ~
+articles:
+  color: color.html
+  examples: examples.html
+  installation: installation.html
+  trials: trials.html
+last_built: 2022-12-03T01:08Z
+urls:
+  reference: https://matiasandina.github.io/ggethos/reference
+  article: https://matiasandina.github.io/ggethos/articles
+
